@@ -1,0 +1,13 @@
+! Subtitle Tool by Tomas Zavodny. http://www.tomzavodny.cz
+Synch Point: Side 1 0m00s
+Collisions: Normal
+Timer: 100.0000
+Style: Default,Arial,26,253436,0,16777215,0,-1,0,2,2,2,20,20,10,0,1
+Dialogue: Marked=0,0:00:24.40,0:00:28.40,Default,NTP,0000,0000,0000,!Effect,Pod¹¿aj¹c za Ludwikiem II Bawarskim, \N wybudowa³em swój w³asny Neuschwanstein,
+Dialogue: Marked=0,0:00:28.88,0:00:33.60,Default,NTP,0000,0000,0000,!Effect,maj¹c nadziejê, i¿ bêdzie \N piêkniejszy, a tak¿e wspanialszy od pierwowzoru.
+Dialogue: Marked=0,0:00:34.24,0:00:40.00,Default,NTP,0000,0000,0000,!Effect,Zainspirowany niesamowit¹ muzyk¹ Wagnera, przechadza³em siê \N po stokach gór, pokonuj¹c mg³ê...
+Dialogue: Marked=0,0:00:40.64,0:00:44.80,Default,NTP,0000,0000,0000,!Effect,...krok za krokiem, po skalnych pó³kach nad przepaœciami, czasami potykaj¹c siê i spadaj¹c.
+Dialogue: Marked=0,0:00:46.88,0:00:55.20,Default,NTP,0000,0000,0000,!Effect,Raz jeszcze chcia³bym powstaæ wsparty swymi marzeniami. \N S¹ ludzie, którzy dokonali znacznie wiêcej
+Dialogue: Marked=0,0:00:56.00,0:01:05.20,Default,NTP,0000,0000,0000,!Effect,z ma³¹ nadziej¹ ujrzenia swoich imiom \N na œciane s³awy w katedrze chwa³y.\NLecz ja mia³em równie¿ cel...
+Dialogue: Marked=0,0:01:06.00,0:01:14.40,Default,NTP,0000,0000,0000,!Effect,oraz wiele obietnic do spe³nienia. \N Historia króla marzyciela jest dla mnie skoñczona.
+Dialogue: Marked=0,0:01:15.68,0:01:20.00,Default,NTP,0000,0000,0000,!Effect,Teraz Twoja kolej.

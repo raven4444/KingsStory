@@ -1,0 +1,15 @@
+! Subtitle Tool by Tomas Zavodny. http://www.tomzavodny.cz
+Synch Point: Side 1 0m00s
+Collisions: Normal
+Timer: 100.0000
+Style: Default,Arial,26,253436,0,16777215,0,-1,0,2,2,2,20,20,10,0,1
+Dialogue: Marked=0,0:00:08.32,0:00:20.00,Default,NTP,0000,0000,0000,!Effect,"Geniusz zderzaj¹cy siê z rzeczywistoœci¹\Nrozpala p³omienie." \N Wspomnienia Williama Angera
+Dialogue: Marked=0,0:00:21.60,0:00:32.00,Default,NTP,0000,0000,0000,!Effect,NajwyraŸniej zagalopowa³em siê, \N lecz przy takim druhu i takiej rozmowie...
+Dialogue: Marked=0,0:00:32.88,0:00:38.40,Default,NTP,0000,0000,0000,!Effect,Gabriel, stary kompan... Rzadko go widywa³em. \N Przyby³ do Miasta z daleka.
+Dialogue: Marked=0,0:00:38.80,0:00:45.12,Default,NTP,0000,0000,0000,!Effect,Pocz¹³ naœmiewaæ siê z moich czynów, \N przez co poczu³em siê odrobinê ura¿ony.
+Dialogue: Marked=0,0:00:45.52,0:00:51.52,Default,NTP,0000,0000,0000,!Effect,Ostatecznie - nie pamiêtam szczegó³ów - \Nza³o¿yliœmy siê.
+Dialogue: Marked=0,0:00:53.28,0:01:00.40,Default,NTP,0000,0000,0000,!Effect,Obieca³em,  i¿ ukradnê koronê \N z prawdziwej g³owy króla.
+Dialogue: Marked=0,0:01:01.04,0:01:09.44,Default,NTP,0000,0000,0000,!Effect,Oczywiœcie mia³em na tyle zdrowego rozs¹dku,\Nby zapytaæ go, czy w okolicy\N¿yj¹ jacyœ królowie.
+Dialogue: Marked=0,0:01:10.96,0:01:19.92,Default,NTP,0000,0000,0000,!Effect,Zatem czeka mnie wycieczka po górach... \N W tak zimny dzieñ nie brzmi to atrakcyjnie.
+Dialogue: Marked=0,0:01:20.16,0:01:29.60,Default,NTP,0000,0000,0000,!Effect,Jednak s³owo siê rzek³o. \N Gdy spojrzê w przesz³oœæ: okrad³em zamo¿nych, staro¿ytnych w³adców, nawet bogów...
+Dialogue: Marked=0,0:01:30.24,0:01:34.40,Default,NTP,0000,0000,0000,!Effect,Czas poszerzyæ tê listê.

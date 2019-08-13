@@ -1,0 +1,7 @@
+// Player Hints strings
+// Any onscreen hinty stuff would go here.
+NewGoal: "Nowe Cele"
+DoneGoal: "Cel Wykonany"
+FailedObj: "Cel Spaprany!"
+FoundSecret: "Znaleziono Sekret!"
+

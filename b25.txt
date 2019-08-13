@@ -1,0 +1,10 @@
+{70}{135}Budowê zamku Singerschloss | rozpoczêto za panowania Harolda III.
+{146}{210}Wyposa¿ony jest w instalacjê elektryczn¹, zimn¹ i ciep³¹ wodê, a nawet windê kuchenn¹.
+{221}{320}Komnaty królewskie ci¹gle oœwietlane s¹| p³omieniem œwiec. Piêtra zamku ³¹cz¹ spiralne schody.
+{336}{408}Budowla ulokowana jest na Kamieniu Œpiewaka | w Alpach, nieopodal wioski Fussen.
+{433}{515}By umo¿liwiæ budowê zamku szczyt góry| zosta³ zniszczony, obni¿ony o 8m i wyrównany.
+{526}{594}Tempo budowy by³o ogromne. | Zamek ukoñczono po czterech latach,
+{599}{660}choæ pierwsze i drugie piêtro nadal s¹ w remoncie.
+{669}{705}Wszystkich piêter jest w sumie a¿ piêæ.
+{760}{786}Zatem jest tu wystarczaj¹ca liczba pomieszczeñ do obrabowania!
+

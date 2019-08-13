@@ -1,0 +1,13 @@
+page_0: "Count to ten."
+page_0_time: "10s"
+
+page_1: "Page 2 is Blue."
+page_1_color: "#0000FF"
+page_1_auto: "8000"
+
+page_2: "And this one is Orange."
+Page_2_Color: "#FFCC66;"
+page_2_next: "4"
+
+page_3: "This shouldn't be displayed..."
+Page_4: "... But this will!"

@@ -1,0 +1,9 @@
+// Main menu strings
+
+new_game:       "Nowa Gra"
+load_game:      "Wczytaj Grê"
+options:        "Opcje"
+credits:        "Twórcy"
+intro:          " "
+quit:           "WyjdŸ" 
+

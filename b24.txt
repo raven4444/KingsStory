@@ -1,0 +1,11 @@
+{104}{250}"Geniusz zderzaj¹cy siê z rzeczywistoœci¹|rozpala p³omienie." | Wspomnienia Williama Angera
+{270}{400}NajwyraŸniej zagalopowa³em siê, | lecz przy takim druhu i takiej rozmowie...
+{411}{480}Gabriel, stary kompan... Rzadko go widywa³em. | Przyby³ do Miasta z daleka.
+{485}{564}Pocz¹³ naœmiewaæ siê z moich czynów, | przez co poczu³em siê odrobinê ura¿ony.
+{569}{644}Ostatecznie - nie pamiêtam szczegó³ów - |za³o¿yliœmy siê.
+{666}{755}Obieca³em,  i¿ ukradnê koronê | z prawdziwej g³owy króla.
+{763}{868}Oczywiœcie mia³em na tyle zdrowego rozs¹dku,|by zapytaæ go, czy w okolicy|¿yj¹ jacyœ królowie.
+{887}{999}Zatem czeka mnie wycieczka po górach... | W tak zimny dzieñ nie brzmi to atrakcyjnie.
+{1002}{1120}Jednak s³owo siê rzek³o. | Gdy spojrzê w przesz³oœæ: okrad³em zamo¿nych, staro¿ytnych w³adców, nawet bogów...
+{1128}{1180}Czas poszerzyæ tê listê.
+
